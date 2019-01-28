@@ -44,6 +44,9 @@ http://localhost:8080/swagger-ui.html
 Lo anterior mostrará el detalle de los servicios expuestos con la posibilidad de probarlos desde esa misma pantalla.
 
 ## Vista de Swagger2
+https://saulh.files.wordpress.com/2019/01/screenshot-from-2019-01-28-11-37-11.png
+
+
 (https://saulh.files.wordpress.com/2019/01/screenshot-from-2019-01-28-11-37-11.png")
 
 
