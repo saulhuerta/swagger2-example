@@ -44,6 +44,7 @@ http://localhost:8080/swagger-ui.html
 Lo anterior mostrará el detalle de los servicios expuestos:
 ![Swagger2](https://saulh.files.wordpress.com/2019/01/screenshot-from-2019-01-28-11-37-11.png)
 
+![Swagger2](https://saulh.files.wordpress.com/2019/01/screenshot-from-2019-01-28-11-37-00.png)
 
 
 
