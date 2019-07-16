@@ -2,7 +2,7 @@
 
 Este proyecto expone una serie de servicios RESTful en los cuales los requests se pueden hacer con diferentes métodos (se implementarán) y las respuestas en formatos distintos.
 
-La intención de este proyecto es principalmente mostrar el uso de SWAGGER2 para documentar los servicios REST que se exponen.
+La intención de este proyecto es principalmente mostrar el uso de SWAGGER2 para documentar los servicios REST que se exponen mediante un proyeto Java desarrollado y ejecutado en NetBeans IDE 8.2.
 
 De manera adelantada, te puedo compartir que se requieren dos dependencias adicionales en tu archivo pom.xml:
 
